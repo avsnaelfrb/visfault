@@ -1,0 +1,6 @@
+
+{{-- @if(in_array(Auth::id(), $post->liked_by_user ?? []))
+Unlike
+@else
+Like
+@endif  --}}
